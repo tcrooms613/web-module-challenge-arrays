@@ -3,10 +3,9 @@
   "version": "1.0.0",
   "description": "## Arrays",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "test": "jest",
-    "test:watch": "jest --verbose --watchAll"
+    "test:watch": "jest --verbose --watchAll" 
   },
   "repository": {
     "type": "git",
